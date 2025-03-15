@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int myArray[30]; //Declare and Initialize array
+int myArray[30];
 int numElem = 0;
 int maxElem = 20;
 
