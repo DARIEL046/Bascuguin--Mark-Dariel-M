@@ -175,19 +175,5 @@ head = deleteFromGivenNode("24k Magic by Bruno Mars", head);
 
     Traverse(head);
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
