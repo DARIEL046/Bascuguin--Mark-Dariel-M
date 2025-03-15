@@ -5,7 +5,6 @@ int myArray[30];
 int numElem = 0;
 int maxElem = 20;
 
-//Sorting Operation
 void bubbleSort(){
     int i, j;
     bool swapped;
